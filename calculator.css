@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc76FNM7PnvU3ivRQ6Dy6NPFzOKspoMRUvsXHMTLmpo8Yp0m-OPmXrdt4ACoqO0lM7pQo&usqp=CAU"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    text-align: center;
+}
+button{
+    height:45px;
+    width:45px;
+    border-radius: 45%;
+}
+#result{
+    height:45px;
+    width:200px;
+}
